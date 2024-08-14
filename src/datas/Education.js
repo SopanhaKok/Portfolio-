@@ -3,7 +3,7 @@ export const educationData = [
     title: 'Computer Science Student',
     subtitle: 'Cambodia Academy of Digital Technology',
     subtitle2: '',
-    timeline: 'Jun 29, 2021 - Current',
+    timeline: 'Jun 29, 2021 - 2023',
   },
   {
     title: 'English',

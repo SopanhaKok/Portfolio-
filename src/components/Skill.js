@@ -18,6 +18,7 @@ const Skill = ({ skillSection }) => {
           >
             <StyledIconGitHub>
               <DynamicFaIcon
+                url={data.url}
                 name={data.icon}
                 size={data.size}
                 color={data.color}

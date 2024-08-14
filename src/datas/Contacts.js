@@ -9,6 +9,6 @@ export const contactsData = [
     icon: 'FaTelegram',
     color: '#0088cc',
     size: '20',
-    url: 'https://t.me/SopanhaKok',
+    url: 'https://t.me/Panha_KS',
   },
 ]
