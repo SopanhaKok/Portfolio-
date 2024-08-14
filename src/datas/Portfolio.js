@@ -6,6 +6,7 @@ export const portfolioDatas = [
     technologyImages: [
       'https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white',
       'https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82',
+      'https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white',
       'https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white',
       'https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white',
       'https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white',
@@ -26,6 +27,7 @@ export const portfolioDatas = [
     technologyImages: [
       'https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white',
       'https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82',
+      'https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white',
       'https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white',
       'https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white',
       'https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white',
@@ -47,6 +49,7 @@ export const portfolioDatas = [
     technologyImages: [
       'https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white',
       'https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82',
+      'https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white',
       'https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white',
       'https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white',
       'https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white',
@@ -64,10 +67,11 @@ export const portfolioDatas = [
   {
     title: 'ShengBi',
     content:
-      'ShengBi is a P2P H5 application allows users to easily manage transactions, including withdrawals, top-ups, and transfers between users. The interface provides options for viewing available sellers, and managing orders. It also includes features for user verification, payment methods, and support, all within a streamlined and accessible dashboard.',
+      'ShengBi is a P2P H5 application allows users to easily buy and sell coins on the platform between users and platforms. The interface provides options for viewing available sellers, messaging during buy/sell process, review from admin before each transaction completed to prevent fraud/scam, and managing orders. It also includes features for user verification, payment methods, and support, all within a streamlined and accessible dashboard.',
     technologyImages: [
       'https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white',
       'https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82',
+      'https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white',
       'https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white',
       'https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white',
       'https://camo.githubusercontent.com/10256265ddc5757f964b1cd52020b33b9ca0a182f8bb4bc7814c865437d682ac/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d416d617a6f6e2b53515326636f6c6f723d464634463842266c6f676f3d416d617a6f6e2b535153266c6f676f436f6c6f723d464646464646266c6162656c3d',
