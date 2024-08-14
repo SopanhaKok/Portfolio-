@@ -1,15 +1,15 @@
 export const skillsData = [
   {
-    icon: 'FaHtml5',
-    text: 'HTML',
+    url: 'https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png',
+    text: 'Go',
     size: '20',
-    color: '#E44F26',
+    color: '#FF2D20',
   },
   {
-    icon: 'FaCss3Alt',
-    text: 'Css',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png',
+    text: 'Tailwind',
     size: '20',
-    color: '#1572B6',
+    color: '#E44F26',
   },
   {
     icon: 'FaJs',
@@ -20,6 +20,18 @@ export const skillsData = [
   {
     icon: 'FaReact',
     text: 'React js',
+    size: '20',
+    color: '#88dded',
+  },
+  {
+    icon: 'FaVuejs',
+    text: 'Vue js',
+    size: '20',
+    color: '#88dded',
+  },
+  {
+    icon: 'FaPython',
+    text: 'Python',
     size: '20',
     color: '#88dded',
   },
@@ -41,12 +53,7 @@ export const skillsData = [
     size: '20',
     color: '#FF2D20',
   },
-  {
-    url: 'https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png',
-    text: 'Go',
-    size: '20',
-    color: '#FF2D20',
-  },
+
   {
     url: 'https://w7.pngwing.com/pngs/74/362/png-transparent-typescript-plain-logo-icon-thumbnail.png',
     text: 'Typescript',
@@ -100,6 +107,18 @@ export const skillsData = [
   {
     url: 'https://cdn.worldvectorlogo.com/logos/redis.svg',
     text: 'Redis',
+    size: '20',
+    color: '#FF2D20',
+  },
+  {
+    url: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png',
+    text: 'Selenium',
+    size: '20',
+    color: '#FF2D20',
+  },
+  {
+    url: 'https://static-00.iconduck.com/assets.00/puppeteer-icon-1371x2048-otngklvq.png',
+    text: 'Puppeteer',
     size: '20',
     color: '#FF2D20',
   },
